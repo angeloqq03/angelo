@@ -3,7 +3,7 @@ var audioContext;
 var mediaRecorder;
 var audioChunks = [];
 
-const maintenance = "Maintenance ongoing, available by 02-18-2024, at 7:00PM PST";
+const maintenance = "Maintenance ongoing, available by 02-29-2024, at 01:00AM PST";
 
 /*
 var contactAngelo = "<div class='social'> <a target='_blank' href='tel:+639670971677'> <div class='socialItem' id='call'><img class='socialItemI' src='phone.svg'/><label class='number'></label></label></div> </a> <a href='mailto:angeloqq03@gmail.com'> <div class='socialItem'><img class='socialItemI' src='gmail.svg' alt=''></div> </a> <a target='_blank' href='https://github.com/angeloqq03'> <div class='socialItem'><img class='socialItemI' src='github.svg' alt=''></div> </a> <a target='_blank' href='https://wa.me/639670971677'> <div class='socialItem'><img class='socialItemI' src='whatsapp.svg' alt=''>";
