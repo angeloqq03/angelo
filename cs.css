@@ -41,7 +41,7 @@ p {
 .experience,
 .contact {
   margin-bottom: 30px;
-  padding: 20px;
+  padding: 50px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: cyan;
@@ -68,7 +68,8 @@ p {
 .skills ul,
 .experience ul,
 .contact ul {
-  padding: 0;
+  padding: 6px;
+  margin:12px;
 }
 
 .skills li,
@@ -77,6 +78,7 @@ p {
   margin-bottom: 8px;
   font-size: 16px;
   color: cyan;
+  padding-left: 10px;
 }
 
 .skills a,
