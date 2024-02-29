@@ -128,9 +128,9 @@ function wNreply(inputText) {
             sendTextMessage("Ohh! That's my name too");
         }
         user = "input";
-    } else if (user.includes(" ")) {
+    } else if (user.includes("adonis")) {
       
-       // sendTextMessage("Im glad that you're interested for a Customer Service Representative Position. To get started, please enter your first name.");
+       // sendTextMessage("Eto sample <a href='adonis.zip' target='_blank'> I CLICK MOKO UY </a>");
        // conversation.stage = 8;
         return;
     } else if (user.includes('fb')) {
